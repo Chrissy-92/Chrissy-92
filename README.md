@@ -1,5 +1,5 @@
 👋🏻 Hola mi nombre es Cristina Pérez (@Chrissy-92). <br>
-🌱 Actualmente soy estudiante de DAW, en proceso de convertirme en una Desarrolladora Web. <br>
+🌱 Actualmente graduada en Desarrollo de Aplicaciones Web y Full Stack, en proceso de convertirme en una Desarrolladora Web Frontend. <br>
 🎯 Mi meta en Github (por ahora) se centra en aprender, practicar y explorar el mundo de la programación empleando sus diferentes lenguajes,
 herramientas y técnicas, por lo que podrás observar mis avances y primeros pasos. <br>
 ✍🏻 Espero que tu recorrido por aquí sea entretenido e inspirador. <br>
