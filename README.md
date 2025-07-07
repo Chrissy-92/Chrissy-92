@@ -19,7 +19,7 @@
   
   <!-- GitHub Stats -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chrissy-92&show_icons=true&theme=ambient-gradient&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chrissy-92&show_icons=true&theme=gradient&hide_border=true" alt="GitHub Stats"/>
 
   <!-- Top Languages -->
   <br/>
