@@ -10,6 +10,25 @@
 [LinkedIn](https://www.linkedin.com/in/cristina-pérez-huerta)
 
 ## Status 📊
-[![Chrissy-92's GitHub Streak](https://streak-stats.demolab.com/?user=Chrissy-92&theme=ambient-gradient)](https://git.io/streak-stats) <br>
+<div align="center">
+
+  <!-- GitHub Streak -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Chrissy-92&theme=ambient-gradient&hide_border=true" alt="GitHub Streak"/>
+  </a>
+  
+  <!-- GitHub Stats -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chrissy-92&show_icons=true&theme=ambient-gradient&hide_border=true" alt="GitHub Stats"/>
+
+  <!-- Top Languages -->
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissy-92&layout=compact&theme=ambient-gradient&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+ <!-- 
+<[![Chrissy-92's GitHub Streak](https://streak-stats.demolab.com/?user=Chrissy-92&theme=ambient-gradient)](https://git.io/streak-stats) <br>
 ![Chrissy-92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrissy-92&show_icons=true&theme=synthwave) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissy-92&layout=compact&theme=dark)
+-->
