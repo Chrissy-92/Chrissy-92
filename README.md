@@ -10,7 +10,7 @@
 [LinkedIn](https://www.linkedin.com/in/cristina-pérez-huerta)
 
 ## Status 📊
-<div align="left">
+<div align="center">
 
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
