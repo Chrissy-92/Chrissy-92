@@ -7,7 +7,7 @@
 ✨ "El éxito no es casualidad, es el resultado de un esfuerzo constante" ✨
 
 ## Contacto 📞
-
+[Email](cristinaperezhuerta@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/cristina-pérez-huerta)
 
 ## Status 📊
