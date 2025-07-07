@@ -7,10 +7,9 @@
 ✨ "El éxito no es casualidad, es el resultado de un esfuerzo constante" ✨
 
 ## Contacto 📞
-[Email](cristinaperezhuerta@gmail.com) <br>
 [LinkedIn](https://www.linkedin.com/in/cristina-pérez-huerta)
 
 ## Status 📊
-[![Chrissy-92's GitHub Streak](https://streak-stats.demolab.com/?user=Chrissy-92)](https://git.io/streak-stats)
-![Chrissy-92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrissy-92&show_icons=true&theme=synthwave)
+[![Chrissy-92's GitHub Streak](https://streak-stats.demolab.com/?user=Chrissy-92)](https://git.io/streak-stats) <br>
+![Chrissy-92's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chrissy-92&show_icons=true&theme=synthwave) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissy-92&layout=compact&theme=dark)
