@@ -23,7 +23,7 @@
 
   <!-- Top Languages -->
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissy-92&layout=compact&theme=theme=dark" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrissy-92&layout=compact&theme=dark" alt="Top Languages"/>
 
 </div>
 
