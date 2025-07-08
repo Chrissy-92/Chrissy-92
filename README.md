@@ -2,7 +2,7 @@
 🌱 Actualmente graduada en Desarrollo de Aplicaciones Web y Full Stack, estoy en proceso de convertirme en una Desarrolladora Web Frontend. <br>
 🎯 Mi meta en Github (por ahora) se centra en aprender, practicar, compartir y explorar el mundo de la programación por lo que podrás observar mis avances y primeros pasos. <br>
 🚀 En constante búsqueda de proyectos donde pueda colaborar y aprender desde mi perspectiva y experiencia. <br>
-✍🏻 Espero que tu recorrido por aquí sea entretenido e inspirador. <br> hola
+✍🏻 Espero que tu recorrido por aquí sea entretenido e inspirador. <br>
 
 ✨ "El éxito no es casualidad, es el resultado de un esfuerzo constante" ✨
 
